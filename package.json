@@ -1,0 +1,22 @@
+{
+  "name": "playwrightfunctions",
+  "version": "0.0.1",
+  "description": "functions for playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrAigner/playwrightFunctions.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "Frank Aigner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrAigner/playwrightFunctions/issues"
+  },
+  "homepage": "https://github.com/FrAigner/playwrightFunctions#readme"
+}
